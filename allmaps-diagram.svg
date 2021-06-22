@@ -256,7 +256,7 @@
 	<g>
 		<rect x="1090.1" y="1546.9" class="st9" width="353.8" height="136.1"/>
 		<text transform="matrix(1 0 0 1 1090.0808 1563.9996)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">The Allmaps editing and viewing tools </tspan><tspan x="0" y="24" class="st18 st12 st13">are simple static web sites. Similar to </tspan><tspan x="0" y="48" class="st18 st12 st13">Mirador and Universal Viewer, they </tspan><tspan x="0" y="72" class="st18 st12 st13">function by referencing a IIIF resource </tspan><tspan x="0" y="96" class="st18 st12 st13">or Web Annotation in the URL.</tspan></text>
-		<text transform="matrix(1 0 0 1 1090.0811 1524.9996)" class="st26 st5 st15">Static web sites</text>
+		<text transform="matrix(1 0 0 1 1090.0811 1524.9996)" class="st26 st5 st15">Static websites</text>
 	</g>
 	<polygon id="Rectangle-Copy-9_1_" class="st27" points="528.9,2187.8 254.3,2158.9 280,1914.2 482.1,1935.5 474.3,2009.5 
 		546.9,2017.2 	"/>
