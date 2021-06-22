@@ -91,13 +91,13 @@
 	<rect x="700.7" y="2652" class="st9" width="389.3" height="94.5"/>
 	<text transform="matrix(1 0 0 1 700.7443 2669.1431)" class="st10"><tspan x="0" y="0" class="st11 st12 st13">Allmaps does not require complicated and </tspan><tspan x="0" y="24" class="st11 st12 st13">expensive GIS infrastructure to </tspan><tspan x="0" y="48" class="st11 st12 st13">georeference, warp and explore map </tspan><tspan x="0" y="72" class="st11 st12 st13">collections.</tspan></text>
 	<rect x="700.7" y="2561.2" class="st16" width="395.3" height="68.3"/>
-	<text transform="matrix(1 0 0 1 700.7449 2583.4404)" class="st10"><tspan x="0" y="0" class="st14 st5 st15">No GIS infrastructure, just static </tspan><tspan x="0" y="31.2" class="st14 st5 st15">JSON, HTML and Javascript</tspan></text>
-	<path id="Rectangle-Copy" class="st3" d="M62,380h433c11,0,20,9,20,20v239c0,11-9,20-20,20H62c-11,0-20-9-20-20V400
-		C42,389,51,380,62,380z"/>
-	<rect x="79.8" y="472.3" class="st9" width="392.4" height="168.9"/>
-	<text transform="matrix(1 0 0 1 79.8201 489.4038)" class="st10"><tspan x="0" y="0" class="st11 st12 st13">The core components of Allmaps are open </tspan><tspan x="0" y="24" class="st11 st12 st13">source and available on GitHub. For </tspan><tspan x="0" y="48" class="st11 st12 st13">example, modules to read and write Web </tspan><tspan x="0" y="72" class="st11 st12 st13">Annotations, parse IIIF resources, </tspan><tspan x="0" y="96" class="st11 st12 st13">transform pixel coordinates to geospatial </tspan><tspan x="0" y="120" class="st11 st12 st13">coordinates, and layers for OpenLayers.</tspan></text>
-	<rect x="77.9" y="416.2" class="st9" width="367.9" height="32.5"/>
-	<text transform="matrix(1 0 0 1 77.9181 438.4062)" class="st14 st5 st15">Open-source components</text>
+	<text transform="matrix(1 0 0 1 700.7449 2583.4404)" class="st10"><tspan x="0" y="0" class="st14 st5 st15">No GIS infrastructure, just static </tspan><tspan x="0" y="31.2" class="st14 st5 st15">JSON, HTML and JavaScript</tspan></text>
+	<path id="Rectangle-Copy" class="st3" d="M92,380h433c11,0,20,9,20,20v239c0,11-9,20-20,20H92c-11,0-20-9-20-20V400
+		C72,389,81,380,92,380z"/>
+	<rect x="109.8" y="472.3" class="st9" width="392.4" height="168.9"/>
+	<text transform="matrix(1 0 0 1 109.8201 489.4038)" class="st10"><tspan x="0" y="0" class="st11 st12 st13">The core components of Allmaps are open </tspan><tspan x="0" y="24" class="st11 st12 st13">source and available on GitHub. For </tspan><tspan x="0" y="48" class="st11 st12 st13">example, modules to read and write Web </tspan><tspan x="0" y="72" class="st11 st12 st13">Annotations, parse IIIF resources, </tspan><tspan x="0" y="96" class="st11 st12 st13">transform pixel coordinates to geospatial </tspan><tspan x="0" y="120" class="st11 st12 st13">coordinates, and layers for OpenLayers.</tspan></text>
+	<rect x="107.9" y="416.2" class="st9" width="367.9" height="32.5"/>
+	<text transform="matrix(1 0 0 1 107.9181 438.4062)" class="st14 st5 st15">Open-source components</text>
 </g>
 <g id="Components">
 	<polygon id="Rectangle-Copy-8" class="st17" points="698.4,220 974.5,220 974.5,466 813.9,466 698.4,480 	"/>
@@ -150,7 +150,7 @@
 			c1.3,4,5,7,9.4,7c5.5,0,9.9-4.5,9.9-10C314.7,762.9,311.8,759.2,307.8,757.9"/>
 	</g>
 	<rect x="156.1" y="803.9" class="st9" width="266" height="217.5"/>
-	<text transform="matrix(1 0 0 1 182.5622 821)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">Allmaps can georeference </tspan><tspan x="7.6" y="24" class="st18 st12 st13">and warp any map that is </tspan><tspan x="-21.2" y="48" class="st18 st12 st13">available with IIIF, directly in </tspan><tspan x="6.1" y="72" class="st18 st12 st13">the browser. If somebody </tspan><tspan x="58.8" y="96" class="st18 st12 st13">else already started </tspan><tspan x="-3.7" y="120" class="st18 st12 st13">georeferencing a map, you </tspan><tspan x="12.6" y="144" class="st18 st12 st13">can continue editing and </tspan><tspan x="34.8" y="168" class="st18 st12 st13">improve on their work.</tspan></text>
+	<text transform="matrix(1 0 0 1 182.5622 821)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">Allmaps can georeference </tspan><tspan x="7.6" y="24" class="st18 st12 st13">and warp any map that is </tspan><tspan x="-21.2" y="48" class="st18 st12 st13">available with IIIF, directly in </tspan><tspan x="6.1" y="72" class="st18 st12 st13">the browser. If somebody </tspan><tspan x="58.8" y="96" class="st18 st12 st13">else already started </tspan><tspan x="-3.7" y="120" class="st18 st12 st13">georeferencing a map, you </tspan><tspan x="12.6" y="144" class="st18 st12 st13">can continue editing and </tspan><tspan x="63.2" y="168" class="st18 st12 st13">improve their work.</tspan></text>
 	<text transform="matrix(1 0 0 1 287.3782 752)" class="st10"><tspan x="0" y="0" class="st4 st5 st15">Web-based</tspan><tspan x="-45.6" y="31.2" class="st4 st5 st15">georeferencing</tspan></text>
 	<polygon id="Rectangle-Copy-5" class="st21" points="859.8,761.9 914.8,766.8 938.6,729.7 970.6,741.8 970.3,758 1000.5,755 
 		1027.8,759 1035.2,776.6 1063.1,782.7 1086.6,783.1 1108.4,777.9 1130.9,790.9 1163.5,778.9 1205.4,792.2 1189.3,975.5 
@@ -174,7 +174,7 @@
 			V650.5z"/>
 	</g>
 	<rect x="1245.5" y="830.9" class="st9" width="281.1" height="161.8"/>
-	<text transform="matrix(1 0 0 1 1245.5 848)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">Allmaps provides ways to </tspan><tspan x="0" y="24" class="st18 st12 st13">import and use the metadata </tspan><tspan x="0" y="48" class="st18 st12 st13">of map collections that are </tspan><tspan x="0" y="72" class="st18 st12 st13">already georeferenced  with </tspan><tspan x="0" y="96" class="st18 st12 st13">other georeferencing tools.</tspan></text>
+	<text transform="matrix(1 0 0 1 1245.5 848)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">Allmaps provides ways to </tspan><tspan x="0" y="24" class="st18 st12 st13">import and use the metadata </tspan><tspan x="0" y="48" class="st18 st12 st13">of map collections that are </tspan><tspan x="0" y="72" class="st18 st12 st13">already georeferenced with </tspan><tspan x="0" y="96" class="st18 st12 st13">other georeferencing tools.</tspan></text>
 	<rect x="1244.5" y="788.8" class="st9" width="146.7" height="29.3"/>
 	<text transform="matrix(1 0 0 1 1244.5 811)" class="st22 st5 st15">Import tools</text>
 	<polygon id="Rectangle_2_" class="st23" points="690.2,1102.7 825.1,1109.7 981.9,1112.8 1035.2,1111.7 1033.9,1186.7 
@@ -252,7 +252,7 @@
 		C741.9,1593.6,731.3,1599.8,713.8,1601.6z"/>
 	<g>
 		<rect x="167.2" y="1546.9" class="st9" width="353.8" height="172.1"/>
-		<text transform="matrix(1 0 0 1 276.3225 1564)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">Metadata of maps that are </tspan><tspan x="-78.5" y="24" class="st18 st12 st13">georeferenced with Allmaps can be </tspan><tspan x="-86" y="48" class="st18 st12 st13">stored in the cloud with the Allmaps </tspan><tspan x="-104.6" y="72" class="st18 st12 st13">API. In the future, this API will support </tspan><tspan x="-102.3" y="96" class="st18 st12 st13">version control and authentication for </tspan><tspan x="-32.5" y="120" class="st18 st12 st13">more complex  crowdsourcing </tspan><tspan x="164.2" y="144" class="st18 st12 st13">projects.</tspan></text>
+		<text transform="matrix(1 0 0 1 276.3225 1564)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">Metadata of maps that are </tspan><tspan x="-78.5" y="24" class="st18 st12 st13">georeferenced with Allmaps can be </tspan><tspan x="-86" y="48" class="st18 st12 st13">stored in the cloud with the Allmaps </tspan><tspan x="-104.6" y="72" class="st18 st12 st13">API. In the future, this API will support </tspan><tspan x="-102.3" y="96" class="st18 st12 st13">version control and authentication for </tspan><tspan x="-27.3" y="120" class="st18 st12 st13">more complex crowdsourcing </tspan><tspan x="164.2" y="144" class="st18 st12 st13">projects.</tspan></text>
 		<text transform="matrix(1 0 0 1 375.1018 1525)" class="st26 st5 st15">Allmaps API</text>
 	</g>
 	<g>
@@ -279,7 +279,7 @@
 		c2.4-3.2,5-6.1,7.7-9c0.7-0.8,1.4-1.5,2.1-2.3c7.3,3.9,16.5,7.2,30.5,9.2l0.6-4c-12.9-1.8-21.5-4.8-28.3-8.3
 		c6-7.1,11.5-15.6,13.6-30.6l14.7,2.1C438.3,2026.6,440.3,2029.3,439.9,2032.1z"/>
 	<rect x="254.7" y="2280.8" class="st9" width="344.1" height="212.8"/>
-	<text transform="matrix(1 0 0 1 254.6766 2297.8843)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">With JavaScript and WebGL, Allmaps </tspan><tspan x="0" y="24" class="st18 st12 st13">can transform georeferenced maps </tspan><tspan x="0" y="48" class="st18 st12 st13">in the browser and align them on top </tspan><tspan x="0" y="72" class="st18 st12 st13">of other map layers with libraries like </tspan><tspan x="0" y="96" class="st18 st12 st13">OpenLayers and Leaflet. Allmaps </tspan><tspan x="0" y="120" class="st18 st12 st13">uses the IIIF Image API to download </tspan><tspan x="0" y="144" class="st18 st12 st13">only the relevant parts of the image, </tspan><tspan x="0" y="168" class="st18 st12 st13">in the right resolution.</tspan></text>
+	<text transform="matrix(1 0 0 1 254.6766 2297.8843)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">With JavaScript and WebGL, Allmaps </tspan><tspan x="0" y="24" class="st18 st12 st13">can transform georeferenced maps </tspan><tspan x="0" y="48" class="st18 st12 st13">in the browser and display on other </tspan><tspan x="0" y="72" class="st18 st12 st13">map layers using libraries like </tspan><tspan x="0" y="96" class="st18 st12 st13">OpenLayers and Leaflet. Allmaps </tspan><tspan x="0" y="120" class="st18 st12 st13">uses the IIIF Image API to download </tspan><tspan x="0" y="144" class="st18 st12 st13">only the relevant parts of the image, </tspan><tspan x="0" y="168" class="st18 st12 st13">in the right resolution.</tspan></text>
 	<g>
 		<rect x="256.4" y="2229.8" class="st16" width="306.3" height="32.3"/>
 		<text transform="matrix(1 0 0 1 256.353 2252)" class="st28 st5 st15">In-browser map warping</text>
@@ -389,7 +389,7 @@
 			L701.3,1969.9z"/>
 	</g>
 	<rect x="700.2" y="2303.9" class="st9" width="315" height="189.7"/>
-	<text transform="matrix(1 0 0 1 700.1898 2321)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">Allmaps makes it easy to find </tspan><tspan x="0" y="24" class="st18 st12 st13">relevant maps from institutions </tspan><tspan x="0" y="48" class="st18 st12 st13">around the world. Using IIIF </tspan><tspan x="0" y="72" class="st18 st12 st13">Manifests and Collections, </tspan><tspan x="0" y="96" class="st18 st12 st13">Allmaps can be used to explore </tspan><tspan x="0" y="120" class="st18 st12 st13">curated collections of maps, from </tspan><tspan x="0" y="144" class="st18 st12 st13">multiple institutions.</tspan></text>
+	<text transform="matrix(1 0 0 1 700.1898 2321)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">Allmaps makes it easy to find </tspan><tspan x="0" y="24" class="st18 st12 st13">relevant maps from institutions </tspan><tspan x="0" y="48" class="st18 st12 st13">around the world. Using IIIF </tspan><tspan x="0" y="72" class="st18 st12 st13">manifests and collections, </tspan><tspan x="0" y="96" class="st18 st12 st13">Allmaps can be used to explore </tspan><tspan x="0" y="120" class="st18 st12 st13">curated collections of maps, from </tspan><tspan x="0" y="144" class="st18 st12 st13">multiple institutions.</tspan></text>
 	<g>
 		<rect x="700.2" y="2229.8" class="st16" width="307.3" height="63.3"/>
 		<text transform="matrix(1 0 0 1 700.1898 2252)"><tspan x="0" y="0" class="st22 st5 st15">Explore maps across </tspan><tspan x="0" y="31.2" class="st22 st5 st15">institutions </tspan></text>
