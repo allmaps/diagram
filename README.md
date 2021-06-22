@@ -1,5 +1,5 @@
-How does Allmaps work?
+# How does Allmaps work?
 
-Designed by [Luuk van de Ven](https://luukvandeven.nl/).
+_Designed by [Luuk van de Ven](https://luukvandeven.nl/)._
 
 ![](allmaps-diagram.svg)
