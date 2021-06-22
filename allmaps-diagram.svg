@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1688 2804" style="enable-background:new 0 0 1688 2804;" xml:space="preserve">
+	 viewBox="0 0 1688 2838.2" style="enable-background:new 0 0 1688 2838.2;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#101656;}
 	.st1{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-dasharray:0,10;}
@@ -14,13 +14,13 @@
 	.st7{fill:none;stroke:#151D79;stroke-width:8;}
 	.st8{fill:none;stroke:#151D79;stroke-width:6.5483;}
 	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:none;}
-	.st10{fill:#333333;}
-	.st11{font-family:'Roboto-Regular';}
-	.st12{font-size:20px;}
-	.st13{fill:#232B89;}
-	.st14{font-size:26px;}
-	.st15{fill:none;}
-	.st16{enable-background:new    ;}
+	.st10{enable-background:new    ;}
+	.st11{fill:#333333;}
+	.st12{font-family:'Roboto-Regular';}
+	.st13{font-size:20px;}
+	.st14{fill:#232B89;}
+	.st15{font-size:26px;}
+	.st16{fill:none;}
 	.st17{fill-rule:evenodd;clip-rule:evenodd;fill:#3B44AD;fill-opacity:0.2863;stroke:#3B44AD;stroke-width:10;}
 	.st18{fill:#FFFFFF;}
 	.st19{fill:#3B44AD;}
@@ -42,7 +42,7 @@
 	.st35{mask:url(#mask-14_3_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
 </style>
 <g id="Background">
-	<rect class="st0" width="1688" height="2804"/>
+	<rect class="st0" width="1688" height="2838.2"/>
 </g>
 <g id="Allmaps">
 	<path id="Rectangle" class="st1" d="M168,575h1345c27.6,0,50,22.4,50,50v1942c0,27.6-22.4,50-50,50H168c-27.6,0-50-22.4-50-50V625
@@ -62,7 +62,7 @@
 	</g>
 </g>
 <g id="Title">
-	<text transform="matrix(1 0 0 1 484.7518 103.4062)" class="st4 st5 st6">How does Allmaps work?</text>
+	<text transform="matrix(1 0 0 1 484.7518 123.4062)" class="st4 st5 st6">How does Allmaps work?</text>
 </g>
 <g id="Lines">
 	<line id="Line-5" class="st7" x1="840.1" y1="466" x2="845.5" y2="687.5"/>
@@ -76,29 +76,30 @@
 	<polyline id="Line-5-Copy_1_" class="st8" points="708.5,1461.7 708.4,1385.1 1035.2,1400.4 1005.3,1824.2 	"/>
 </g>
 <g id="Highlights">
-	<path id="Rectangle_3_" class="st3" d="M1220,1174h393c11,0,20,9,20,20v189c0,11-9,20-20,20h-393c-11,0-20-9-20-20v-189
+	<path id="Rectangle_3_" class="st3" d="M1220,1174h393c11,0,20,9,20,20v219c0,11-9,20-20,20h-393c-11,0-20-9-20-20v-219
 		C1200,1183,1209,1174,1220,1174z"/>
-	<rect x="1235.2" y="1257.3" class="st9" width="337.7" height="22.5"/>
-	<text transform="matrix(1 0 0 1 1235.1874 1274.3885)" class="st10 st11 st12">Vivamus id neque eu mauris congue </text>
-	<rect x="1235.2" y="1205.4" class="st9" width="302.6" height="29.3"/>
-	<text transform="matrix(1 0 0 1 1235.1874 1227.6229)" class="st13 st5 st14">Based on open standards</text>
-	<rect x="1526.5" y="1205.4" class="st9" width="6.8" height="29.3"/>
-	<text transform="matrix(1 0 0 1 1526.4574 1227.6229)" class="st13 st5 st14"> </text>
-	<path id="Rectangle_4_" class="st3" d="M698,2502h393c11,0,20,9,20,20v189c0,11-9,20-20,20H698c-11,0-20-9-20-20v-189
-		C678,2511,687,2502,698,2502z"/>
-	<text transform="matrix(1 0 0 1 704.6315 2635.4404)" class="st10 st11 st12">Vivamus id neque eu mauris congue </text>
-	<rect x="704.6" y="2531.2" class="st15" width="381.6" height="60.5"/>
-	<text transform="matrix(1 0 0 1 704.6315 2553.4404)" class="st16"><tspan x="0" y="0" class="st13 st5 st14">No GIS infrastructure,</tspan><tspan x="0" y="31.2" class="st13 st5 st14">just static HTML and Javascript</tspan></text>
-	<path id="Rectangle-Copy" class="st3" d="M62,460h393c11,0,20,9,20,20v189c0,11-9,20-20,20H62c-11,0-20-9-20-20V480
-		C42,469,51,460,62,460z"/>
-	<rect x="74.3" y="537" class="st9" width="369" height="114"/>
-	<text transform="matrix(1 0 0 1 74.2779 554.1211)" class="st16"><tspan x="0" y="0" class="st10 st11 st12">The core components of Allmaps are </tspan><tspan x="0" y="24" class="st10 st11 st12">open source and available on GitHub.</tspan></text>
-	<rect x="74.3" y="489.9" class="st9" width="331.5" height="29.3"/>
-	<text transform="matrix(1 0 0 1 74.2779 512.1211)" class="st13 st5 st14">Open-source components</text>
+	<rect x="1235.2" y="1259.3" class="st9" width="355.8" height="141.6"/>
+	<text transform="matrix(1 0 0 1 1235.1874 1276.3885)" class="st10"><tspan x="0" y="0" class="st11 st12 st13">Allmaps uses the IIIF API and the </tspan><tspan x="0" y="24" class="st11 st12 st13">upcoming IIIF extension for geospatial </tspan><tspan x="0" y="48" class="st11 st12 st13">data throughout its components. </tspan><tspan x="0" y="72" class="st11 st12 st13">Maps can be exported to file formats </tspan><tspan x="0" y="96" class="st11 st12 st13">such as GeoJSON, GeoTIFF, </tspan><tspan x="0" y="120" class="st11 st12 st13">Shapefiles and CSV.</tspan></text>
+	<rect x="1235.2" y="1207.4" class="st9" width="302.6" height="29.3"/>
+	<text transform="matrix(1 0 0 1 1235.1874 1229.6229)" class="st14 st5 st15">Based on open standards</text>
+	<rect x="1526.5" y="1207.4" class="st9" width="6.8" height="29.3"/>
+	<text transform="matrix(1 0 0 1 1526.4574 1229.6229)" class="st14 st5 st15"> </text>
+	<path id="Rectangle_4_" class="st3" d="M682.9,2522h433c11,0,20,9,20,20v209c0,11-9,20-20,20h-433c-11,0-20-9-20-20v-209
+		C662.9,2531,671.8,2522,682.9,2522z"/>
+	<rect x="700.7" y="2652" class="st9" width="389.3" height="94.5"/>
+	<text transform="matrix(1 0 0 1 700.7443 2669.1431)" class="st10"><tspan x="0" y="0" class="st11 st12 st13">Allmaps does not require a complicated </tspan><tspan x="0" y="24" class="st11 st12 st13">and expensive GIS infrastructure to </tspan><tspan x="0" y="48" class="st11 st12 st13">georeference, warp and explore map </tspan><tspan x="0" y="72" class="st11 st12 st13">collections</tspan></text>
+	<rect x="700.7" y="2561.2" class="st16" width="395.3" height="68.3"/>
+	<text transform="matrix(1 0 0 1 700.7449 2583.4404)" class="st10"><tspan x="0" y="0" class="st14 st5 st15">No GIS infrastructure, just static </tspan><tspan x="0" y="31.2" class="st14 st5 st15">JSON, HTML and Javascript</tspan></text>
+	<path id="Rectangle-Copy" class="st3" d="M62,380h433c11,0,20,9,20,20v239c0,11-9,20-20,20H62c-11,0-20-9-20-20V400
+		C42,389,51,380,62,380z"/>
+	<rect x="79.8" y="472.3" class="st9" width="392.4" height="168.9"/>
+	<text transform="matrix(1 0 0 1 79.8201 489.4038)" class="st10"><tspan x="0" y="0" class="st11 st12 st13">The core components of Allmaps are open </tspan><tspan x="0" y="24" class="st11 st12 st13">source and available on GitHub. For </tspan><tspan x="0" y="48" class="st11 st12 st13">example, modules to read and write Web </tspan><tspan x="0" y="72" class="st11 st12 st13">Annotations, parse IIIF resources, </tspan><tspan x="0" y="96" class="st11 st12 st13">transform pixel coordinates to geospatial </tspan><tspan x="0" y="120" class="st11 st12 st13">coordinates, and layers for OpenLayers.</tspan></text>
+	<rect x="77.9" y="416.2" class="st9" width="367.9" height="32.5"/>
+	<text transform="matrix(1 0 0 1 77.9181 438.4062)" class="st14 st5 st15">Open-source components</text>
 </g>
 <g id="Components">
 	<polygon id="Rectangle-Copy-8" class="st17" points="698.4,220 974.5,220 974.5,466 813.9,466 698.4,480 	"/>
-	<path id="Rectangle_1_" class="st15" d="M709.5,237h271c8.8,0,16,7.2,16,16v197c0,8.8-7.2,16-16,16h-271c-8.8,0-16-7.2-16-16V253
+	<path id="Rectangle_1_" class="st16" d="M709.5,237h271c8.8,0,16,7.2,16,16v197c0,8.8-7.2,16-16,16h-271c-8.8,0-16-7.2-16-16V253
 		C693.5,244.2,700.7,237,709.5,237z"/>
 	<g id="iiif" transform="translate(111.000000, 81.000000)">
 		<path id="Fill-1" class="st3" d="M751.6,290c0-0.2-0.1-0.4-0.1-0.7c0-16.3,0-32.5,0-48.8c0-4.9,1.6-9.2,4.7-13
@@ -126,9 +127,9 @@
 			C749.4,235.1,749.5,235.6,749.5,236"/>
 	</g>
 	<rect x="1017" y="289.9" class="st9" width="374.2" height="156.1"/>
-	<text transform="matrix(1 0 0 1 1017 307)" class="st16"><tspan x="0" y="0" class="st18 st11 st12">Hundreds of thousands of digitized </tspan><tspan x="0" y="24" class="st18 st11 st12">maps are already accessible through IIIF </tspan><tspan x="0" y="48" class="st18 st11 st12">across institutions worldwide. Allmaps </tspan><tspan x="0" y="72" class="st18 st11 st12">makes it possible to enrich these maps </tspan><tspan x="0" y="96" class="st18 st11 st12">with geospatial data, and view them on </tspan><tspan x="0" y="120" class="st18 st11 st12">top of other map layers.</tspan></text>
+	<text transform="matrix(1 0 0 1 1017 307)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">Hundreds of thousands of digitized </tspan><tspan x="0" y="24" class="st18 st12 st13">maps are already accessible through IIIF </tspan><tspan x="0" y="48" class="st18 st12 st13">across institutions worldwide. Allmaps </tspan><tspan x="0" y="72" class="st18 st12 st13">makes it possible to enrich these maps </tspan><tspan x="0" y="96" class="st18 st12 st13">with geospatial data, and view them on </tspan><tspan x="0" y="120" class="st18 st12 st13">top of other map layers.</tspan></text>
 	<rect x="1017" y="247.8" class="st9" width="253" height="29.3"/>
-	<text transform="matrix(1 0 0 1 1017 270)" class="st19 st5 st14">IIIF Map Collections</text>
+	<text transform="matrix(1 0 0 1 1017 270)" class="st19 st5 st15">IIIF map collections</text>
 	<polygon id="Rectangle-Copy-7" class="st20" points="480.4,737 756.5,737 756.5,983 595.9,983 595.9,923.7 529,912.8 519.3,971.9 
 		454,961.9 	"/>
 	
@@ -146,9 +147,9 @@
 			c-5.5,0-9.9,4.5-9.9,10c0,4.5,2.9,8.2,6.9,9.5l0,33.1c-4,1.3-6.9,5-6.9,9.5c0,5.5,4.4,10,9.9,10c4.4,0,8.1-2.9,9.4-7h32.4
 			c1.3,4,5,7,9.4,7c5.5,0,9.9-4.5,9.9-10C314.7,762.9,311.8,759.2,307.8,757.9"/>
 	</g>
-	<rect x="172.6" y="833.9" class="st9" width="259.4" height="158.1"/>
-	<text transform="matrix(1 0 0 1 177.7082 851)" class="st16"><tspan x="0" y="0" class="st18 st11 st12">Fusce vulputate vestibulum </tspan><tspan x="26.8" y="24" class="st18 st11 st12">da dsda dasd asd asd as </tspan><tspan x="127" y="48" class="st18 st11 st12">das d asd asd</tspan></text>
-	<text transform="matrix(1 0 0 1 260.6941 782)" class="st16"><tspan x="0" y="0" class="st4 st5 st14">Crowdsourced</tspan><tspan x="-8.9" y="31.2" class="st4 st5 st14">georeferencing</tspan></text>
+	<rect x="156.1" y="803.9" class="st9" width="266" height="217.5"/>
+	<text transform="matrix(1 0 0 1 182.5622 821)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">Allmaps can georeference </tspan><tspan x="7.6" y="24" class="st18 st12 st13">and warp any map that is </tspan><tspan x="-21.2" y="48" class="st18 st12 st13">available with IIIF, directly in </tspan><tspan x="6.1" y="72" class="st18 st12 st13">the browser. If somebody </tspan><tspan x="58.8" y="96" class="st18 st12 st13">else already started </tspan><tspan x="-3.7" y="120" class="st18 st12 st13">georeferencing a map, you </tspan><tspan x="12.6" y="144" class="st18 st12 st13">can continue editing and </tspan><tspan x="34.8" y="168" class="st18 st12 st13">improve on their work.</tspan></text>
+	<text transform="matrix(1 0 0 1 287.3782 752)" class="st10"><tspan x="0" y="0" class="st4 st5 st15">Web-based</tspan><tspan x="-45.6" y="31.2" class="st4 st5 st15">georeferencing</tspan></text>
 	<polygon id="Rectangle-Copy-5" class="st21" points="859.8,761.9 914.8,766.8 938.6,729.7 970.6,741.8 970.3,758 1000.5,755 
 		1027.8,759 1035.2,776.6 1063.1,782.7 1086.6,783.1 1108.4,777.9 1130.9,790.9 1163.5,778.9 1205.4,792.2 1189.3,975.5 
 		843.8,945.2 	"/>
@@ -171,15 +172,15 @@
 			V650.5z"/>
 	</g>
 	<rect x="1245.5" y="830.9" class="st9" width="281.1" height="161.8"/>
-	<text transform="matrix(1 0 0 1 1245.5 848)" class="st16"><tspan x="0" y="0" class="st18 st11 st12">Allmaps provides ways to </tspan><tspan x="0" y="24" class="st18 st11 st12">convert the metadata of </tspan><tspan x="0" y="48" class="st18 st11 st12">previously georeferenced </tspan><tspan x="0" y="72" class="st18 st11 st12">collections</tspan></text>
+	<text transform="matrix(1 0 0 1 1245.5 848)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">Allmaps provides ways to </tspan><tspan x="0" y="24" class="st18 st12 st13">import and use the metadata </tspan><tspan x="0" y="48" class="st18 st12 st13">of map collections that are </tspan><tspan x="0" y="72" class="st18 st12 st13">already georeferenced  with </tspan><tspan x="0" y="96" class="st18 st12 st13">other georeferencing tools.</tspan></text>
 	<rect x="1244.5" y="788.8" class="st9" width="146.7" height="29.3"/>
-	<text transform="matrix(1 0 0 1 1244.5 811)" class="st22 st5 st14">Import tools</text>
+	<text transform="matrix(1 0 0 1 1244.5 811)" class="st22 st5 st15">Import tools</text>
 	<polygon id="Rectangle_2_" class="st23" points="690.2,1102.7 825.1,1109.7 981.9,1112.8 1035.2,1111.7 1033.9,1186.7 
 		982.2,1189.2 975.8,1320.9 686.5,1321 670.7,1229.9 	"/>
-	<rect x="337.5" y="1218.9" class="st9" width="295.4" height="119.5"/>
-	<text transform="matrix(1 0 0 1 355.9513 1236)" class="st16"><tspan x="0" y="0" class="st18 st11 st12">The IIIF community is working </tspan><tspan x="-3.5" y="24" class="st18 st11 st12">on an official IIIF extension for </tspan><tspan x="1.5" y="48" class="st18 st11 st12">georeferencing and geotaging </tspan><tspan x="169.6" y="72" class="st18 st11 st12">IIIF images. </tspan></text>
-	<rect x="367.7" y="1144.8" class="st9" width="262.3" height="60.6"/>
-	<text transform="matrix(1 0 0 1 426.8969 1167)" class="st16"><tspan x="0" y="0" class="st24 st5 st14">IIIF extension for </tspan><tspan x="12" y="31.2" class="st24 st5 st14">geospatial  data</tspan></text>
+	<rect x="277.8" y="1158.9" class="st9" width="355.1" height="189.7"/>
+	<text transform="matrix(1 0 0 1 299.5924 1176)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">The IIIF community is working on an </tspan><tspan x="109.3" y="24" class="st18 st12 st13">official IIIF extension for </tspan><tspan x="23.2" y="48" class="st18 st12 st13">georeferencing and geotaging IIIF </tspan><tspan x="57.2" y="72" class="st18 st12 st13">images. This extension will be </tspan><tspan x="-10.3" y="96" class="st18 st12 st13">published as an open standard and is </tspan><tspan x="1.7" y="120" class="st18 st12 st13">used by Allmaps for communication </tspan><tspan x="74.4" y="144" class="st18 st12 st13">between all its components.</tspan></text>
+	<rect x="367.7" y="1084.8" class="st9" width="262.3" height="60.6"/>
+	<text transform="matrix(1 0 0 1 426.8969 1107)" class="st10"><tspan x="0" y="0" class="st24 st5 st15">IIIF extension for </tspan><tspan x="18.8" y="31.2" class="st24 st5 st15">geospatial data</tspan></text>
 	
 		<g id="Group-29" transform="translate(830.000000, 1209.500000) rotate(-5.000000) translate(-830.000000, -1209.500000) translate(766.000000, 1159.000000)">
 		<path id="Fill-1_3_" class="st3" d="M23.4,45.5c0-1.2-0.4-1.7-1.5-2c-0.8-0.1-1.1-0.8-1.1-1.7c0-1.1,0.4-1.6,1.1-1.7
@@ -247,15 +248,19 @@
 		c17.5-1.8,29.2,2,29.6,5.5c0.4,3.5-10.3,9.6-27.8,11.5c-17.5,1.8-29.2-2-29.6-5.5C678.1,1537.4,688.7,1531.2,706.2,1529.4z
 		 M713.8,1601.6c-17.5,1.8-29.2-2-29.6-5.5l-1.1-10.8c6.7,3.3,18.2,4.2,29.3,3c11.1-1.2,22.1-4.4,28-9.1l1.1,10.8
 		C741.9,1593.6,731.3,1599.8,713.8,1601.6z"/>
-	<rect x="167.2" y="1546.9" class="st9" width="353.8" height="172.1"/>
-	<text transform="matrix(1 0 0 1 373.0291 1564)" class="st16"><tspan x="0" y="0" class="st18 st11 st12">To keep track of  </tspan><tspan x="-149.9" y="24" class="st18 st11 st12">georeferencing metadata can be </tspan><tspan x="-112.8" y="48" class="st18 st11 st12">stored with the Allmaps API.</tspan><tspan x="-158.5" y="72" class="st18 st11 st12">In the future, this API will support </tspan><tspan x="-199" y="96" class="st18 st11 st12">version control and authentication for </tspan><tspan x="-129.2" y="120" class="st18 st11 st12">more complex  crowdsourcing </tspan><tspan x="67.5" y="144" class="st18 st11 st12">projects.</tspan></text>
-	<text transform="matrix(1 0 0 1 375.1018 1525)" class="st26 st5 st14">Allmaps API</text>
-	<rect x="1090.1" y="1566.9" class="st9" width="353.8" height="136.1"/>
-	<text transform="matrix(1 0 0 1 1090.0808 1584)" class="st16"><tspan x="0" y="0" class="st18 st11 st12">Most components of Allmaps are </tspan><tspan x="0" y="24" class="st18 st11 st12">simple static web sites. Similar to </tspan><tspan x="0" y="48" class="st18 st11 st12">Mirador and Universal Viewer, they </tspan><tspan x="0" y="72" class="st18 st11 st12">function by referencing a IIIF resource </tspan><tspan x="0" y="96" class="st18 st11 st12">or Web Annotation in the URL.</tspan></text>
-	<text transform="matrix(1 0 0 1 1090.0811 1545)" class="st26 st5 st14">Static web sites</text>
+	<g>
+		<rect x="167.2" y="1546.9" class="st9" width="353.8" height="172.1"/>
+		<text transform="matrix(1 0 0 1 182.4666 1564)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">All maps that are georeferenced with </tspan><tspan x="20.6" y="24" class="st18 st12 st13">Allmaps can be stored in the cloud </tspan><tspan x="19.8" y="48" class="st18 st12 st13">with the Allmaps API. In the future, </tspan><tspan x="11.4" y="72" class="st18 st12 st13">this API will support version control </tspan><tspan x="-1.3" y="96" class="st18 st12 st13">and authentication for more complex  </tspan><tspan x="116.3" y="120" class="st18 st12 st13">crowdsourcing projects.</tspan></text>
+		<text transform="matrix(1 0 0 1 375.1018 1525)" class="st26 st5 st15">Allmaps API</text>
+	</g>
+	<g>
+		<rect x="1090.1" y="1546.9" class="st9" width="353.8" height="136.1"/>
+		<text transform="matrix(1 0 0 1 1090.0808 1563.9996)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">The Allmaps editing and viewing tools </tspan><tspan x="0" y="24" class="st18 st12 st13">are simple static web sites. Similar to </tspan><tspan x="0" y="48" class="st18 st12 st13">Mirador and Universal Viewer, they </tspan><tspan x="0" y="72" class="st18 st12 st13">function by referencing a IIIF resource </tspan><tspan x="0" y="96" class="st18 st12 st13">or Web Annotation in the URL.</tspan></text>
+		<text transform="matrix(1 0 0 1 1090.0811 1524.9996)" class="st26 st5 st15">Static web sites</text>
+	</g>
 	<polygon id="Rectangle-Copy-9_1_" class="st27" points="528.9,2187.8 254.3,2158.9 280,1914.2 482.1,1935.5 474.3,2009.5 
 		546.9,2017.2 	"/>
-	<path id="Rectangle-Copy-2" class="st15" d="M269,1942h271c8.8,0,16,7.2,16,16v197c0,8.8-7.2,16-16,16H269c-8.8,0-16-7.2-16-16
+	<path id="Rectangle-Copy-2" class="st16" d="M269,1942h271c8.8,0,16,7.2,16,16v197c0,8.8-7.2,16-16,16H269c-8.8,0-16-7.2-16-16
 		v-197C253,1949.2,260.2,1942,269,1942z"/>
 	<g id="Clip-2_1_">
 	</g>
@@ -272,11 +277,11 @@
 		c2.4-3.2,5-6.1,7.7-9c0.7-0.8,1.4-1.5,2.1-2.3c7.3,3.9,16.5,7.2,30.5,9.2l0.6-4c-12.9-1.8-21.5-4.8-28.3-8.3
 		c6-7.1,11.5-15.6,13.6-30.6l14.7,2.1C438.3,2026.6,440.3,2029.3,439.9,2032.1z"/>
 	<rect x="254.7" y="2280.8" class="st9" width="344.1" height="212.8"/>
-	<text transform="matrix(1 0 0 1 254.6766 2297.8843)" class="st16"><tspan x="0" y="0" class="st18 st11 st12">With JavaScript and WebGL, Allmaps </tspan><tspan x="0" y="24" class="st18 st11 st12">can transform georeferenced maps </tspan><tspan x="0" y="48" class="st18 st11 st12">in the browser to overlay them with </tspan><tspan x="0" y="72" class="st18 st11 st12">other map layers in OpenLayers and </tspan><tspan x="0" y="96" class="st18 st11 st12">Leaflet.</tspan><tspan x="0" y="144" class="st18 st11 st12">Allmaps uses the IIIF Image API to </tspan><tspan x="0" y="168" class="st18 st11 st12">download only the part of the image </tspan><tspan x="0" y="192" class="st18 st11 st12">that’s visible, in the right resolution.</tspan></text>
-	<rect x="256.4" y="2229.8" class="st15" width="306.3" height="32.3"/>
-	<text transform="matrix(1 0 0 1 256.353 2252)" class="st4 st5 st14">In-browser map warping</text>
-	<text transform="matrix(1 0 0 1 431.4954 2252)" class="st4 st5 st14"> </text>
-	<path id="Rectangle-Copy-3" class="st15" d="M1130,1942h271c8.8,0,16,7.2,16,16v197c0,8.8-7.2,16-16,16h-271c-8.8,0-16-7.2-16-16
+	<text transform="matrix(1 0 0 1 254.6766 2297.8843)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">With JavaScript and WebGL, Allmaps </tspan><tspan x="0" y="24" class="st18 st12 st13">can transform georeferenced maps </tspan><tspan x="0" y="48" class="st18 st12 st13">in the browser to overlay them with </tspan><tspan x="0" y="72" class="st18 st12 st13">other map layers in OpenLayers and </tspan><tspan x="0" y="96" class="st18 st12 st13">Leaflet. Allmaps uses the IIIF Image </tspan><tspan x="0" y="120" class="st18 st12 st13">API to download only the part of the </tspan><tspan x="0" y="144" class="st18 st12 st13">image that’s visible, in the right </tspan><tspan x="0" y="168" class="st18 st12 st13">resolution.</tspan></text>
+	<rect x="256.4" y="2229.8" class="st16" width="306.3" height="32.3"/>
+	<text transform="matrix(1 0 0 1 256.353 2252)" class="st4 st5 st15">In-browser map warping</text>
+	<text transform="matrix(1 0 0 1 431.4954 2252)" class="st4 st5 st15"> </text>
+	<path id="Rectangle-Copy-3" class="st16" d="M1130,1942h271c8.8,0,16,7.2,16,16v197c0,8.8-7.2,16-16,16h-271c-8.8,0-16-7.2-16-16
 		v-197C1114,1949.2,1121.2,1942,1130,1942z"/>
 	<polygon id="Rectangle-Copy-7_1_" class="st20" points="1183.4,1942 1459.5,1942 1459.5,2188 1298.9,2188 1298.5,2160.1 
 		1222.3,2149.4 1222.3,2176.9 1157,2166.9 	"/>
@@ -358,12 +363,12 @@
 			939.4,2067 936.4,2067 936.4,2071.9 933.8,2071.9 		"/>
 	</g>
 	<rect x="1177.7" y="2271.9" class="st9" width="315.3" height="189"/>
-	<text transform="matrix(1 0 0 1 1177.6962 2289)" class="st16"><tspan x="0" y="0" class="st18 st11 st12">You can keep using your favorite </tspan><tspan x="0" y="24" class="st18 st11 st12">GIS, database and scripting </tspan><tspan x="0" y="48" class="st18 st11 st12">language. Allmaps allows you to </tspan><tspan x="0" y="72" class="st18 st11 st12">download map collections as CSV </tspan><tspan x="0" y="96" class="st18 st11 st12">or GeoJSON, or generate GDAL </tspan><tspan x="0" y="120" class="st18 st11 st12">scripts to create GeoTIFFs and </tspan><tspan x="0" y="144" class="st18 st11 st12">map tiles.</tspan></text>
+	<text transform="matrix(1 0 0 1 1177.6962 2289)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">You can keep using your favorite </tspan><tspan x="0" y="24" class="st18 st12 st13">GIS, database and scripting </tspan><tspan x="0" y="48" class="st18 st12 st13">language. Allmaps allows you to </tspan><tspan x="0" y="72" class="st18 st12 st13">download map collections as CSV </tspan><tspan x="0" y="96" class="st18 st12 st13">or GeoJSON, or generate GDAL </tspan><tspan x="0" y="120" class="st18 st12 st13">scripts to create GeoTIFFs and </tspan><tspan x="0" y="144" class="st18 st12 st13">map tiles.</tspan></text>
 	<rect x="1177.7" y="2229.8" class="st9" width="144.8" height="29.3"/>
-	<text transform="matrix(1 0 0 1 1177.6962 2252)" class="st4 st5 st14">Export tools</text>
+	<text transform="matrix(1 0 0 1 1177.6962 2252)" class="st4 st5 st15">Export tools</text>
 	<polygon id="Rectangle-Copy-5_1_" class="st21" points="676,2156.2 703.5,2174.4 891.2,2167.7 947.2,2167.7 947.2,2109 
 		984.6,2105.2 992.9,2167.7 1033,2159.1 1005.6,1942.6 660,1972.9 	"/>
-	<path id="Rectangle-Copy-3_1_" class="st15" d="M710,1942h271c8.8,0,16,7.2,16,16v197c0,8.8-7.2,16-16,16H710c-8.8,0-16-7.2-16-16
+	<path id="Rectangle-Copy-3_1_" class="st16" d="M710,1942h271c8.8,0,16,7.2,16,16v197c0,8.8-7.2,16-16,16H710c-8.8,0-16-7.2-16-16
 		v-197C694,1949.2,701.2,1942,710,1942z"/>
 	<g id="Group-4" transform="translate(140.000000, 68.092659)">
 		<path id="Fill-3_2_" class="st3" d="M660,1968.5l8.7,5.1l-8.7,5.1l8.7,5.1l-8.7,5.1l8.7,5.1l-8.7,5.1l8.7,5.1l-8.7,5.1l45.5,26.6
@@ -380,9 +385,9 @@
 			l3-3.3l3-3.4l3-3.3l0,0l3-3.4l1-1.1l-5.3-3L715.9,1958.2z M701.3,1969.9l-3-1.7l11.2-3.6l3.1-1l-1.7,1.8l-3.2,3.3l-3.1,3.1
 			L701.3,1969.9z"/>
 	</g>
-	<rect x="720.2" y="2303.9" class="st9" width="261.5" height="134.5"/>
-	<text transform="matrix(1 0 0 1 720.1898 2321)" class="st16"><tspan x="0" y="0" class="st18 st11 st12">Allmaps can display curated </tspan><tspan x="0" y="24" class="st18 st11 st12">collections of maps, from </tspan><tspan x="0" y="48" class="st18 st11 st12">images </tspan></text>
-	<rect x="720.2" y="2229.8" class="st9" width="255.1" height="63.3"/>
-	<text transform="matrix(1 0 0 1 720.1898 2252)" class="st16"><tspan x="0" y="0" class="st4 st5 st14">Explore maps across </tspan><tspan x="0" y="31.2" class="st4 st5 st14">institutions </tspan></text>
+	<rect x="700.2" y="2303.9" class="st9" width="315" height="189.7"/>
+	<text transform="matrix(1 0 0 1 700.1898 2321)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">Allmaps makes it easy to find </tspan><tspan x="0" y="24" class="st18 st12 st13">relevant maps from institutions </tspan><tspan x="0" y="48" class="st18 st12 st13">around the world. Using IIIF </tspan><tspan x="0" y="72" class="st18 st12 st13">Manifests and Collections, </tspan><tspan x="0" y="96" class="st18 st12 st13">Allmaps can be used to explore </tspan><tspan x="0" y="120" class="st18 st12 st13">curated collections of maps, from </tspan><tspan x="0" y="144" class="st18 st12 st13">multiple institutions.</tspan></text>
+	<rect x="700.2" y="2229.8" class="st9" width="307.3" height="63.3"/>
+	<text transform="matrix(1 0 0 1 700.1898 2252)" class="st10"><tspan x="0" y="0" class="st4 st5 st15">Explore maps across </tspan><tspan x="0" y="31.2" class="st4 st5 st15">institutions </tspan></text>
 </g>
 </svg>
