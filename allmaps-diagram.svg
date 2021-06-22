@@ -32,14 +32,15 @@
 	.st25{fill-rule:evenodd;clip-rule:evenodd;fill:#A5DFE6;fill-opacity:0.3873;stroke:#63D8E6;stroke-width:10;}
 	.st26{fill:#63D8E6;}
 	.st27{fill-rule:evenodd;clip-rule:evenodd;fill:#FE5E60;fill-opacity:0.2548;stroke:#FE5E60;stroke-width:10;}
-	.st28{filter:url(#Adobe_OpacityMaskFilter);}
-	.st29{mask:url(#mask-12_1_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
-	.st30{filter:url(#Adobe_OpacityMaskFilter_1_);}
-	.st31{mask:url(#mask-14_1_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
-	.st32{filter:url(#Adobe_OpacityMaskFilter_2_);}
-	.st33{mask:url(#mask-14_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
-	.st34{filter:url(#Adobe_OpacityMaskFilter_3_);}
-	.st35{mask:url(#mask-14_3_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st28{fill:#FE5E60;}
+	.st29{filter:url(#Adobe_OpacityMaskFilter);}
+	.st30{mask:url(#mask-12_1_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st31{filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st32{mask:url(#mask-14_1_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st33{filter:url(#Adobe_OpacityMaskFilter_2_);}
+	.st34{mask:url(#mask-14_2_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st35{filter:url(#Adobe_OpacityMaskFilter_3_);}
+	.st36{mask:url(#mask-14_3_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
 </style>
 <g id="Background">
 	<rect class="st0" width="1688" height="2838.2"/>
@@ -73,17 +74,18 @@
 	<polyline id="Line-5_2_" class="st7" points="1050.5,780 1047.3,698.6 657.8,678.2 655.3,735.1 	"/>
 	<polyline id="Line-5-Copy-4" class="st7" points="1239.2,1944.7 1218.6,1831.6 476,1805.7 454,1924 	"/>
 	<polyline id="Line-5-Copy" class="st7" points="1032.2,964.1 1033.7,1002.1 666.7,1021.3 664.8,983.4 	"/>
-	<polyline id="Line-5-Copy_1_" class="st8" points="708.5,1461.7 708.4,1385.1 1035.2,1400.4 1005.3,1824.2 	"/>
+	<line class="st8" x1="1014.9" y1="1688.3" x2="1005.3" y2="1824.2"/>
+	<polyline class="st8" points="708.5,1461.7 708.4,1385.1 1035.2,1400.4 1029.9,1475.7 	"/>
 </g>
 <g id="Highlights">
-	<path id="Rectangle_3_" class="st3" d="M1220,1174h393c11,0,20,9,20,20v219c0,11-9,20-20,20h-393c-11,0-20-9-20-20v-219
-		C1200,1183,1209,1174,1220,1174z"/>
-	<rect x="1235.2" y="1259.3" class="st9" width="355.8" height="141.6"/>
-	<text transform="matrix(1 0 0 1 1235.1874 1276.3885)" class="st10"><tspan x="0" y="0" class="st11 st12 st13">Allmaps uses the IIIF API and the </tspan><tspan x="0" y="24" class="st11 st12 st13">upcoming IIIF extension for geospatial </tspan><tspan x="0" y="48" class="st11 st12 st13">data throughout its components. </tspan><tspan x="0" y="72" class="st11 st12 st13">Maps can be exported to file formats </tspan><tspan x="0" y="96" class="st11 st12 st13">such as GeoJSON, GeoTIFF, </tspan><tspan x="0" y="120" class="st11 st12 st13">Shapefiles and CSV.</tspan></text>
-	<rect x="1235.2" y="1207.4" class="st9" width="302.6" height="29.3"/>
-	<text transform="matrix(1 0 0 1 1235.1874 1229.6229)" class="st14 st5 st15">Based on open standards</text>
-	<rect x="1526.5" y="1207.4" class="st9" width="6.8" height="29.3"/>
-	<text transform="matrix(1 0 0 1 1526.4574 1229.6229)" class="st14 st5 st15"> </text>
+	<path id="Rectangle_3_" class="st3" d="M1220,1134h393c11,0,20,9,20,20v219c0,11-9,20-20,20h-393c-11,0-20-9-20-20v-219
+		C1200,1143,1209,1134,1220,1134z"/>
+	<rect x="1235.2" y="1219.3" class="st9" width="355.8" height="141.6"/>
+	<text transform="matrix(1 0 0 1 1235.1874 1236.3885)" class="st10"><tspan x="0" y="0" class="st11 st12 st13">Allmaps uses the IIIF API and the </tspan><tspan x="0" y="24" class="st11 st12 st13">upcoming IIIF extension for geospatial </tspan><tspan x="0" y="48" class="st11 st12 st13">data throughout its components. </tspan><tspan x="0" y="72" class="st11 st12 st13">Maps can be exported to file formats </tspan><tspan x="0" y="96" class="st11 st12 st13">such as GeoJSON, GeoTIFF, </tspan><tspan x="0" y="120" class="st11 st12 st13">Shapefiles and CSV.</tspan></text>
+	<rect x="1235.2" y="1167.4" class="st9" width="302.6" height="29.3"/>
+	<text transform="matrix(1 0 0 1 1235.1874 1189.6229)" class="st14 st5 st15">Based on open standards</text>
+	<rect x="1526.5" y="1167.4" class="st9" width="6.8" height="29.3"/>
+	<text transform="matrix(1 0 0 1 1526.4574 1189.6229)" class="st14 st5 st15"> </text>
 	<path id="Rectangle_4_" class="st3" d="M682.9,2522h433c11,0,20,9,20,20v209c0,11-9,20-20,20h-433c-11,0-20-9-20-20v-209
 		C662.9,2531,671.8,2522,682.9,2522z"/>
 	<rect x="700.7" y="2652" class="st9" width="389.3" height="94.5"/>
@@ -254,9 +256,9 @@
 		<text transform="matrix(1 0 0 1 375.1018 1525)" class="st26 st5 st15">Allmaps API</text>
 	</g>
 	<g>
-		<rect x="1090.1" y="1546.9" class="st9" width="353.8" height="136.1"/>
-		<text transform="matrix(1 0 0 1 1090.0808 1563.9996)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">The Allmaps editing and viewing tools </tspan><tspan x="0" y="24" class="st18 st12 st13">are simple static web sites. Similar to </tspan><tspan x="0" y="48" class="st18 st12 st13">Mirador and Universal Viewer, they </tspan><tspan x="0" y="72" class="st18 st12 st13">function by referencing a IIIF resource </tspan><tspan x="0" y="96" class="st18 st12 st13">or Web Annotation in the URL.</tspan></text>
-		<text transform="matrix(1 0 0 1 1090.0811 1524.9996)" class="st26 st5 st15">Static websites</text>
+		<rect x="986" y="1546.9" class="st9" width="353.8" height="136.1"/>
+		<text transform="matrix(1 0 0 1 986.0277 1563.9996)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">The Allmaps editing and viewing tools </tspan><tspan x="0" y="24" class="st18 st12 st13">are simple static web sites. Similar to </tspan><tspan x="0" y="48" class="st18 st12 st13">Mirador and Universal Viewer, they </tspan><tspan x="0" y="72" class="st18 st12 st13">function by referencing a IIIF resource </tspan><tspan x="0" y="96" class="st18 st12 st13">or Web Annotation in the URL.</tspan></text>
+		<text transform="matrix(1 0 0 1 986.028 1524.9996)" class="st26 st5 st15">Static websites</text>
 	</g>
 	<polygon id="Rectangle-Copy-9_1_" class="st27" points="528.9,2187.8 254.3,2158.9 280,1914.2 482.1,1935.5 474.3,2009.5 
 		546.9,2017.2 	"/>
@@ -278,9 +280,10 @@
 		c6-7.1,11.5-15.6,13.6-30.6l14.7,2.1C438.3,2026.6,440.3,2029.3,439.9,2032.1z"/>
 	<rect x="254.7" y="2280.8" class="st9" width="344.1" height="212.8"/>
 	<text transform="matrix(1 0 0 1 254.6766 2297.8843)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">With JavaScript and WebGL, Allmaps </tspan><tspan x="0" y="24" class="st18 st12 st13">can transform georeferenced maps </tspan><tspan x="0" y="48" class="st18 st12 st13">in the browser to overlay them with </tspan><tspan x="0" y="72" class="st18 st12 st13">other map layers in OpenLayers and </tspan><tspan x="0" y="96" class="st18 st12 st13">Leaflet. Allmaps uses the IIIF Image </tspan><tspan x="0" y="120" class="st18 st12 st13">API to download only the part of the </tspan><tspan x="0" y="144" class="st18 st12 st13">image that’s visible, in the right </tspan><tspan x="0" y="168" class="st18 st12 st13">resolution.</tspan></text>
-	<rect x="256.4" y="2229.8" class="st16" width="306.3" height="32.3"/>
-	<text transform="matrix(1 0 0 1 256.353 2252)" class="st4 st5 st15">In-browser map warping</text>
-	<text transform="matrix(1 0 0 1 431.4954 2252)" class="st4 st5 st15"> </text>
+	<g>
+		<rect x="256.4" y="2229.8" class="st16" width="306.3" height="32.3"/>
+		<text transform="matrix(1 0 0 1 256.353 2252)" class="st28 st5 st15">In-browser map warping</text>
+	</g>
 	<path id="Rectangle-Copy-3" class="st16" d="M1130,1942h271c8.8,0,16,7.2,16,16v197c0,8.8-7.2,16-16,16h-271c-8.8,0-16-7.2-16-16
 		v-197C1114,1949.2,1121.2,1942,1130,1942z"/>
 	<polygon id="Rectangle-Copy-7_1_" class="st20" points="1183.4,1942 1459.5,1942 1459.5,2188 1298.9,2188 1298.5,2160.1 
@@ -315,11 +318,11 @@
 				</filter>
 			</defs>
 			<mask maskUnits="userSpaceOnUse" x="899.1" y="2036.5" width="54.6" height="51.9" id="mask-12_1_">
-				<g class="st28">
+				<g class="st29">
 					<polygon id="path-11_1_" class="st3" points="904.2,2034.2 948.7,2034.2 948.7,2089.4 904.2,2089.4 					"/>
 				</g>
 			</mask>
-			<path id="Fill-17_1_" class="st29" d="M943.1,2083.9h-33.3v-44.2h19.4v13.8h13.9V2083.9z M932,2034.2l-22.2,0
+			<path id="Fill-17_1_" class="st30" d="M943.1,2083.9h-33.3v-44.2h19.4v13.8h13.9V2083.9z M932,2034.2l-22.2,0
 				c-3.1,0-5.6,2.5-5.6,5.5v44.2c0,3,2.5,5.5,5.5,5.5h33.4c3.1,0,5.6-2.5,5.6-5.5l0-33.1L932,2034.2z"/>
 		</g>
 		<polygon id="Fill-20" class="st3" points="920.2,2058.8 920.2,2061 918.1,2061 918.1,2071.9 915.4,2071.9 915.4,2061 913.3,2061 
@@ -332,22 +335,22 @@
 			</filter>
 		</defs>
 		<mask maskUnits="userSpaceOnUse" x="920" y="2059" width="5.3" height="12.8" id="mask-14_1_">
-			<g class="st30">
+			<g class="st31">
 				<polygon id="path-13_1_" class="st3" points="904.2,2158.8 1066,2158.8 1066,2034.2 904.2,2034.2 				"/>
 			</g>
 		</mask>
-		<polygon id="Fill-22" class="st31" points="921.4,2071.9 923.9,2071.9 923.9,2058.8 921.4,2058.8 		"/>
+		<polygon id="Fill-22" class="st32" points="921.4,2071.9 923.9,2071.9 923.9,2058.8 921.4,2058.8 		"/>
 		<defs>
 			<filter id="Adobe_OpacityMaskFilter_2_" filterUnits="userSpaceOnUse" x="924.9" y="2058.9" width="7.8" height="12.9">
 				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
 			</filter>
 		</defs>
 		<mask maskUnits="userSpaceOnUse" x="924.9" y="2058.9" width="7.8" height="12.9" id="mask-14_2_">
-			<g class="st32">
+			<g class="st33">
 				<polygon id="path-13_2_" class="st3" points="904.2,2158.8 1066,2158.8 1066,2034.2 904.2,2034.2 				"/>
 			</g>
 		</mask>
-		<polygon id="Fill-24" class="st33" points="926.2,2058.8 932.4,2058.8 932.4,2061 928.8,2061 928.8,2064.8 931.8,2064.8 
+		<polygon id="Fill-24" class="st34" points="926.2,2058.8 932.4,2058.8 932.4,2061 928.8,2061 928.8,2064.8 931.8,2064.8 
 			931.8,2067 928.8,2067 928.8,2071.9 926.2,2071.9 		"/>
 		<defs>
 			<filter id="Adobe_OpacityMaskFilter_3_" filterUnits="userSpaceOnUse" x="932.5" y="2058.9" width="7.8" height="12.9">
@@ -355,11 +358,11 @@
 			</filter>
 		</defs>
 		<mask maskUnits="userSpaceOnUse" x="932.5" y="2058.9" width="7.8" height="12.9" id="mask-14_3_">
-			<g class="st34">
+			<g class="st35">
 				<polygon id="path-13_3_" class="st3" points="904.2,2158.8 1066,2158.8 1066,2034.2 904.2,2034.2 				"/>
 			</g>
 		</mask>
-		<polygon id="Fill-25_1_" class="st35" points="933.8,2058.8 940,2058.8 940,2061 936.4,2061 936.4,2064.8 939.4,2064.8 
+		<polygon id="Fill-25_1_" class="st36" points="933.8,2058.8 940,2058.8 940,2061 936.4,2061 936.4,2064.8 939.4,2064.8 
 			939.4,2067 936.4,2067 936.4,2071.9 933.8,2071.9 		"/>
 	</g>
 	<rect x="1177.7" y="2271.9" class="st9" width="315.3" height="189"/>
@@ -387,7 +390,9 @@
 	</g>
 	<rect x="700.2" y="2303.9" class="st9" width="315" height="189.7"/>
 	<text transform="matrix(1 0 0 1 700.1898 2321)" class="st10"><tspan x="0" y="0" class="st18 st12 st13">Allmaps makes it easy to find </tspan><tspan x="0" y="24" class="st18 st12 st13">relevant maps from institutions </tspan><tspan x="0" y="48" class="st18 st12 st13">around the world. Using IIIF </tspan><tspan x="0" y="72" class="st18 st12 st13">Manifests and Collections, </tspan><tspan x="0" y="96" class="st18 st12 st13">Allmaps can be used to explore </tspan><tspan x="0" y="120" class="st18 st12 st13">curated collections of maps, from </tspan><tspan x="0" y="144" class="st18 st12 st13">multiple institutions.</tspan></text>
-	<rect x="700.2" y="2229.8" class="st9" width="307.3" height="63.3"/>
-	<text transform="matrix(1 0 0 1 700.1898 2252)" class="st10"><tspan x="0" y="0" class="st4 st5 st15">Explore maps across </tspan><tspan x="0" y="31.2" class="st4 st5 st15">institutions </tspan></text>
+	<g>
+		<rect x="700.2" y="2229.8" class="st16" width="307.3" height="63.3"/>
+		<text transform="matrix(1 0 0 1 700.1898 2252)"><tspan x="0" y="0" class="st22 st5 st15">Explore maps across </tspan><tspan x="0" y="31.2" class="st22 st5 st15">institutions </tspan></text>
+	</g>
 </g>
 </svg>
